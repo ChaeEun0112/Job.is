@@ -3,12 +3,11 @@
 
 ## 👩‍💻팀원
 
-| **PM** | **UI/UX Design** | **Frontend** | **Backend** |
-| :---: | :---: | :---: | :---: |
-| 구준서 | 김채은 | 곽다현 | 김지훈 |
-|  |  | 김현보 | 송유경 |
-|  |  | 이경준 | 임성현 |
-|  |  |  | 조연준 |
+|  |  |  |
+| :---: | :---: | :---: |
+| **구준서**<br>PM | **김채은**<br>UI/UX Design | **곽다현**<br>Frontend |
+| **김현보**<br>Frontend | **이경준**<br>Frontend | **김지훈**<br>Backend |
+| **송유경**<br>Backend | **임성현**<br>Backend | **조연준**<br>Backend |
 
 ## ✒️디자인/문서
 ### Figma
