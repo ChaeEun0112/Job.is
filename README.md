@@ -180,8 +180,8 @@ Job.is는 기존의 **탐색 중심 채용 서비스**를
 | 구분 | 기술 |
 | :---: | :--- |
 | Design | Figma |
-| Frontend | 프로젝트 사용 기술 |
-| Backend | 프로젝트 사용 기술 |
+| Frontend | React, TypeScript, Vite, Tailwind CSS, React Router, TanStack Query, Zustand |
+| Backend | Java, Spring Boot, JPA, PostgreSQL, Spring Security, Redis, Docker, Python |
 | Infrastructure | EC2 · S3 · RDS · CI/CD |
 | Documentation | Notion |
 
