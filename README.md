@@ -12,10 +12,13 @@
 
 ## ✒️디자인/문서
 ### Figma
-- **Wireframe** 
+- **Wireframe**
+  
 https://www.figma.com/design/ujEARukGLxo3aJyFZzaRMa/Job.is?t=CyfCizyAhklSuxnd-0
 - **Design**
+  
 https://www.figma.com/design/Oi5hxNGVuhR35L4pPNpLHl/Job.is-D?node-id=834-84&p=f&t=sIcN9Q3bp2N4idT1-0
 ### Notion
 - **기획 문서**
+  
 https://app.notion.com/p/Job-is-3632e0416c20808c9a64c9d829c1fb3d?source=copy_link
