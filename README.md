@@ -1,7 +1,7 @@
 # Job.is - 매일 아침, 나만의 취업 비서
 소수의 맞춤 공고를 추천 이유와 함께 배달하는 AI 취업 큐레이션 서비스
 > 웹 서비스 개발 기간 : 2026.06 ~ 2026.08
-
+![대표화면](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Lento.png)
 ## 🏆 수상
 
 > **Leets 프로젝트 최우수상 (1등)**
